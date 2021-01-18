@@ -1,0 +1,5 @@
+.vscode/
+venv/
+player_list.csv
+.~lock.player_list.csv#
+.idea/
